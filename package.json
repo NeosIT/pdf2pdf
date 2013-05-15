@@ -18,7 +18,11 @@
     "name": "Thomas Höll"
   },
   "license": "BSD",
-  "dependencies": {},
+  "dependencies": {
+    "cheerio" : "*",
+    "pdfkit" : "*",
+    "gm" : "*"
+  },
   "_id": "pdf2pdf@0.1.0",
   "readme": "ERROR: No README.md file found!",
   "dist": {

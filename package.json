@@ -1,0 +1,28 @@
+{
+  "name": "pdf2pdf",
+  "version": "0.1.0",
+  "description": "converts image only PDF files into searchable PDF files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "pdf",
+    "ocr",
+    "tesseract",
+    ""
+  ],
+  "private": true,
+  "author": {
+    "name": "Thomas Höll"
+  },
+  "license": "BSD",
+  "dependencies": {},
+  "_id": "pdf2pdf@0.1.0",
+  "readme": "ERROR: No README.md file found!",
+  "dist": {
+    "shasum": "39896a8b03bdc47c368ae221463cc99e38e818cf"
+  },
+  "_from": "pdf2pdf"
+}
